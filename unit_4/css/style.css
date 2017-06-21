@@ -17,6 +17,7 @@ body {
 
 header {
 	padding: 1em;
+	text-align: center;
 }
 
 nav {
@@ -52,7 +53,8 @@ h2 {
 	font-weight: bold;
 	font-size: 3em;
 	text-align: center;
-	padding: 20px
+	padding: 20px;
+	margin: auto;
 }
 
 h3 {
@@ -61,6 +63,7 @@ h3 {
 	font-size: 2.25em;
 	text-align: center;
 	padding: 20px;
+	margin: auto;
 }
 
 hr {
@@ -92,12 +95,20 @@ a {
 	text-decoration: none;
 	color: #990100;
 	padding-bottom: 2px;
+	margin: auto;
 	/*border-bottom: 1px solid #B90504;*/
+}
+
+img {
+	margin: auto;
+	text-align: center;
+	margin: auto;
 }
 
 footer {
 	padding: 20px;
 	text-align: center;
+	margin: auto;
 }
 
 .navLinks {
