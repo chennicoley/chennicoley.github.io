@@ -21,6 +21,7 @@ header {
 
 nav {
 	margin: auto;
+	text-align: center;
 }
 
 main {
@@ -108,7 +109,7 @@ footer {
 	border: none;
 	padding: 0 2em;
 	margin: 0 1em;
-	background: #fff;
+	background: #F6F6F6;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
