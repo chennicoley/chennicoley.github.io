@@ -176,10 +176,21 @@ footer {
 	height: 0;	
 }
 
+.wrapper:{
+	width: 90%;
+	margin: auto;
+}
+
 .work {
 	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
+}
+
+.all {
+	width: 22%:
+	margin 1.5%;
+	float: left;
 }
 
 .about {
