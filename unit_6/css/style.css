@@ -17,10 +17,10 @@ body {
 }
 
 header {
-	background-color: #FFED74;
+/*	background-color: #FFED74;
 	border: 1px black solid;
-	padding: 20px;
-	/*padding: 1em;*/
+	padding: 20px;*/
+	padding: 1em;
 	text-align: center;
 }
 
@@ -28,8 +28,8 @@ nav {
 	margin: auto;
 	text-align: center;
 	
-	background-color: #E8C66A;
-    border: 1px black solid;
+	/*background-color: #E8C66A;
+    border: 1px black solid;*/
     padding: 20px;
     max-width: inherit;
 }
@@ -143,10 +143,9 @@ img {
 }
 
 footer {
-	background-color: #FF957E;
-    border: 1px black solid;
+	/*background-color: #FF957E;
+    border: 1px black solid;*/
     padding: 20px;
-	/*padding: 20px;*/
 	text-align: center;
 	margin: auto;
 	clear: both;
@@ -161,8 +160,8 @@ footer {
 	height: 1000px;
 	/*padding: 20px 0;*/
 
-	background-color: #FFE2B8;
-    border: 1px black solid;
+	/*background-color: #FFE2B8;
+    border: 1px black solid;*/
     padding: 20px;
 }
 
@@ -176,8 +175,8 @@ footer {
 }
 
 .work {
-	background-color: #FFE2B8;
-    border: 1px black solid;
+	/*background-color: #FFE2B8;
+    border: 1px black solid;*/
     padding: 20px;
 }
 
@@ -188,8 +187,8 @@ footer {
 }
 
 .workthumbnails {
-    background-color: #FFB7CF;
-    border: 1px black solid;
+ /* background-color: #FFB7CF;
+    border: 1px black solid;*/
     padding: 20px;
 }
 
@@ -198,19 +197,19 @@ footer {
 	display: block;
 	margin: auto;
 
-	background-color: #E55B88;
-    border: 1px black solid;
+	/*background-color: #E55B88;
+    border: 1px black solid;*/
     padding: 20px;
 }
 
 .about {
-	background-color: #FFE2B8;
-    border: 1px black solid;
+	/*background-color: #FFE2B8;
+    border: 1px black solid;*/
     padding: 20px;
 }
 
 .contact {
-	background-color: #FFE2B8;
-    border: 1px black solid;
+	/*background-color: #FFE2B8;
+    border: 1px black solid;*/
     padding: 20px;
 }
