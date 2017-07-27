@@ -172,11 +172,14 @@ footer {
     content: " ";
     clear: both;
     height: 0;
+<<<<<<< HEAD
 }
 
 .wrapper:{
 	width: 90%;
 	margin: auto;
+=======
+>>>>>>> 47713fb936f025b40810017070a83845edb16b64
 }
 
 .work {
